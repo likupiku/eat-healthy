@@ -1,0 +1,45 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+}
+
+.network {
+    font-size: 80px;
+}
+
+p {
+    color: darkslategray;
+}
+
+.skip {
+    color: skyblue;
+}
+
+.healthy {
+    color: grey;
+}
+
+.eat-healthy {
+    display: flex;
+    padding-top: 5%;
+    margin-bottom: 125px;
+    margin-left: 5%;
+}
+
+.diet-food {
+    width: 50%;
+}
+
+.diet-food img {
+    width: 90%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(skyblue, white);
+    color: mediumpurple;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 15%;
+
+}
