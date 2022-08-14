@@ -22,12 +22,15 @@ p {
 .eat-healthy {
     display: flex;
     padding-top: 5%;
-    margin-bottom: 125px;
-    margin-left: 5%;
+    padding-bottom: 5%;
+    margin-bottom: 100px;
+    padding-left: 5%;
+
 }
 
 .diet-food {
     width: 50%;
+
 }
 
 .diet-food img {
@@ -35,11 +38,17 @@ p {
 }
 
 .link-button {
+    font-size: 200%;
     text-decoration: none;
     background-image: linear-gradient(skyblue, white);
     color: mediumpurple;
     font-weight: 700;
-    padding: 10px 40px;
-    border-radius: 15%;
+    padding: 10px 30px;
+    border-radius: 20px;
+}
 
+.top-banner {
+    background-image: url(images/background.png.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
