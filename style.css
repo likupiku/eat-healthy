@@ -9,6 +9,8 @@ body {
 
 p {
     color: darkslategray;
+    margin-bottom: 15%;
+
 }
 
 .skip {
@@ -41,14 +43,43 @@ p {
     font-size: 200%;
     text-decoration: none;
     background-image: linear-gradient(skyblue, white);
-    color: mediumpurple;
-    font-weight: 700;
     padding: 10px 30px;
+    margin-top: 10%;
     border-radius: 20px;
+}
+
+#order-button {
+    margin-top: 50%;
 }
 
 .top-banner {
     background-image: url(images/background.png.png);
     background-repeat: no-repeat;
     background-size: 100%;
+}
+
+.about-me {
+    color: tan;
+    font-size: 50px;
+}
+
+.contact-me {
+    text-decoration: none;
+    font-size: 200%;
+    background-image: linear-gradient(silver, slategray);
+    font-weight: 700;
+    padding: 10px 30px;
+    border-radius: 20px;
+    color: bisque;
+}
+
+.top-banner2 {
+    background-image: url(images/food2.png.jpg);
+    background-repeat: no-repeat;
+    background-size: 40%;
+}
+
+.only-me {
+    text-align: justify;
+    font-size: 20px;
 }
