@@ -115,3 +115,45 @@ p {
 .title-color {
     color: darkolivegreen;
 }
+
+.likes-count {
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 20px;
+}
+
+.youtube {
+    width: 50%;
+    padding-left: 10%;
+    padding-right: 10%;
+
+}
+
+.subscriber {
+    font-size: 300%;
+}
+
+.finish {
+    text-align: center;
+    background-color: black;
+    margin-top: 100px;
+    padding-top: 3%;
+    padding-bottom: 5%;
+}
+
+.eat {
+    color: darkkhaki;
+}
+
+.fresh {
+    color: darkseagreen;
+}
+
+.live {
+    color: bisque;
+}
