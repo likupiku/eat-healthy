@@ -96,14 +96,22 @@ p {
     margin: 10px 30px 30px;
 }
 
-.food-recipie {
+.description-about {
     display: flex;
-    padding-top: 5%;
-    padding-bottom: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
     margin-bottom: 100px;
-    padding-left: 5%;
 }
 
-.lorem-text {
-    width: 30%;
+#khabar-khabo {
+    border: 5px solid gray;
+    border-radius: 50px;
+    margin: 20px;
+    padding-top: 5%;
+    padding-left: 5%;
+    box-shadow: 10px 10px 40px gray;
+}
+
+.title-color {
+    color: darkolivegreen;
 }
